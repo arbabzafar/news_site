@@ -1,0 +1,65 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ a,image,i{
+    cursor: pointer;
+ }
+ /* custom color */
+ .red{
+    border: red;
+ }
+ .grey{
+    background-color: gainsboro;
+ }
+ .bg-purple{
+    background-color: #0e0818;
+ }
+ .text-purple{
+    color: #0e0818;
+   
+ }
+
+
+
+
+
+ /* css start */
+ .news-heading .line{
+    width: 5px;
+    height: 55px;
+    background-color: red;
+ }
+ .text-center{
+    text-align: center !important;
+ }
+ .card-pic img{
+    width: 100%;
+    height: 100%;
+ }
+ .dark-blue{
+    width: 10px;
+    height: 40px;
+    background-color: darkolivegreen;
+ }
+ .no-border{
+    border: none;
+ }
+ .news-content h2{
+    font-weight: 700;
+ }
+ .links-card .card{
+    height: 300px;
+ }
+ .links-card .card  img{
+    width: 100%;
+    height: 100%;
+ }
+ .footer{
+    padding: 60px 0;
+    position: relative;
+    background-color: #3B4757 !important;
+    margin-top: 100px;
+}
+
